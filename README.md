@@ -22,7 +22,7 @@ Včasih pride prav značka `kbd` za tipke. Značko uporabimo takole:
 <!-- 2. nivojski razdelek -->
 ## Domača naloga
 
-<!-- Spodnji seznam bo pripravil seznam nalog. Na GitHubu bodo lepo vidna potrditvena polja, 
+<!-- Spodnji sezlnam bo pripravil seznam nalog. Na GitHubu bodo lepo vidna potrditvena polja, 
      VSCode pa bo prikazal samo oglate oklepaje. Ko nalogo opravite, si to lahko zabeležite tako,
      da spremenite [ ] v [x]. -->
 - [ ] Izberite si še tri bližnjice, ki jih še ne uporabljate redno, in se jih naučite. 
@@ -38,3 +38,4 @@ Včasih pride prav značka `kbd` za tipke. Značko uporabimo takole:
 3. [Zapiski in vaje za Računalniški praktikum](http://katjabercic.github.io/racunalniski-praktikum)
 4. [Dokumentacija za Markdown na GitHubu](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
+2. domača naloga
