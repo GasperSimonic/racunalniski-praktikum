@@ -1,7 +1,7 @@
 # Fdb version 4
-["pdflatex"] 1730987600.79858 "c:/Users/gs86187/OneDrive - Univerza v Ljubljani/racunalniski-praktikum/06-uvod-v-latex/test/123.tex" "123.pdf" "123" 1730987601.28421 0
-  "123.aux" 1730987601 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
-  "123.tex" 1730987600 247 23d56120db934fd3897a9cf9ebc040b7 ""
+["pdflatex"] 1730995911.01439 "c:/Users/gs86187/OneDrive - Univerza v Ljubljani/racunalniski-praktikum/06-uvod-v-latex/test/123.tex" "123.pdf" "123" 1730995911.44644 0
+  "123.aux" 1730995911 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
+  "123.tex" 1730995910 247 23d56120db934fd3897a9cf9ebc040b7 ""
   "C:/Program Files/MiKTeX/fonts/tfm/public/cm/cmbx12.tfm" 1136765053 1324 c910af8c371558dc20f2d7822f66fe64 ""
   "C:/Program Files/MiKTeX/fonts/tfm/public/cm/cmr12.tfm" 1136765053 1288 655e228510b4c2a1abe905c368440826 ""
   "C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb" 1247596666 32080 340ef9bf63678554ee606688e7b5339d ""
@@ -12,9 +12,9 @@
   "C:/Program Files/MiKTeX/tex/latex/base/article.cls" 1719393830 20144 67a5f8e0f9e445e8ec6834e595cebdc9 ""
   "C:/Program Files/MiKTeX/tex/latex/base/size10.clo" 1719393830 8448 358bf3de18513f057a13bdc6e6770c41 ""
   "C:/Program Files/MiKTeX/tex/latex/l3backend/l3backend-pdftex.def" 1716480499 29785 9f93ab201fe5dd053afcc6c1bcf7d266 ""
-  "C:/Users/gs86187/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1730986453 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
+  "C:/Users/gs86187/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1730993759 81760 910369822cd2d7c359b2482f4c0de4ca ""
   "C:/Users/gs86187/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1730986461 24254908 9c6dd4ee347fde2575f67032a9bdb249 ""
-  "c:/Users/gs86187/OneDrive - Univerza v Ljubljani/racunalniski-praktikum/06-uvod-v-latex/test/123.tex" 1730987600 247 23d56120db934fd3897a9cf9ebc040b7 ""
+  "c:/Users/gs86187/OneDrive - Univerza v Ljubljani/racunalniski-praktikum/06-uvod-v-latex/test/123.tex" 1730995910 247 23d56120db934fd3897a9cf9ebc040b7 ""
   (generated)
   "123.aux"
   "123.log"
