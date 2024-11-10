@@ -22,7 +22,7 @@
 # *.pdf
 
 ## Generated if empty string is given at "Please type another file name for output:"
-.pdf
+urnik-resitev.pdf
 
 ## Bibliography auxiliary files (bibtex/biblatex/biber):
 *.bbl
@@ -36,7 +36,7 @@
 *.fdb_latexmk
 *.synctex
 *.synctex(busy)
-*.synctex.gz
+*.gz
 *.synctex.gz(busy)
 *.pdfsync
 *.rubbercache
